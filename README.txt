@@ -1,7 +1,7 @@
-Welcome to Mozilla Skywriter!
+Welcome to Aarize MoonWritter!
 -----------------------------
 
-Mozilla Skywriter is a Mozilla Labs experiment on how to build an extensible Web code 
+MoonWritter is a fork of Mozilla Skywritter to build an extensible Web code 
 editor using HTML 5 technology.
 
 Project home page: http://mozillalabs.com/skywriter/
